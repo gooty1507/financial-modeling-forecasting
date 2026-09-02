@@ -1,0 +1,13 @@
+assumption,value
+forecast_years,5.0
+revenue_growth_rate,0.1
+cogs_pct_of_revenue,0.45
+opex_pct_of_revenue,0.3
+capex_pct_of_revenue,0.045
+da_pct_of_revenue,0.032
+nwc_change_pct_of_revenue,0.018
+tax_rate,0.24
+wacc,0.095
+terminal_growth_rate,0.025
+net_debt,4200000.0
+shares_outstanding,2500000.0
